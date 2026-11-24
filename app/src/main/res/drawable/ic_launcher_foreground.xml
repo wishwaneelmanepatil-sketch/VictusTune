@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Music note / waveform chord icon -->
+    <path
+        android:fillColor="#8B5CF6"
+        android:pathData="M38,32 C38,30 40,28 43,28 L68,24 C71,23 74,26 74,29 L74,62 C74,60 71,58 66,58 C60.48,58 56,62.48 56,68 C56,73.52 60.48,78 66,78 C71.52,78 76,73.52 76,68 L76,38 L42,43 L42,68 C42,66 39,64 34,64 C28.48,64 24,68.48 24,74 C24,79.52 28.48,84 34,84 C39.52,84 44,79.52 44,74 L44,35 C44,33.5 41,32 38,32 Z" />
+</vector>
